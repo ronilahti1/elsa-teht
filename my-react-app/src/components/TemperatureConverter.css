@@ -1,0 +1,10 @@
+.temperature-converter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
